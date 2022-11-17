@@ -1,13 +1,4 @@
 {
   "User": [
-    {
-      "id": 1,
-      "name": "Daniel Gabbay",
-      "email": "d9777834@gmail.com",
-      "cycles": [
-        "C_123",
-        "C_456"
-      ]
-    }
   ]
 }
