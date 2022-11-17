@@ -1,12 +1,13 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
+  "User": [
+    {
+      "id": 1,
+      "name": "Daniel Gabbay",
+      "email": "d9777834@gmail.com",
+      "cycles": [
+        "C_123",
+        "C_456"
+      ]
     }
-  }
-
+  ]
+}
